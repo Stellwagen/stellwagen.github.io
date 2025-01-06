@@ -2,6 +2,7 @@
 ---
 
 # Stellwagen Lab
+PI: 
 
 David StellWagen
 Associate Professor | Neurology & Neurosurgery, Medicine (Dept. & Faculty)
@@ -18,6 +19,12 @@ Researcher | Research Institute of the McGill University Health Centre
   text="On GitHub"
   link="greenelab/lab-website-template"
 %}
+
+The lab is focusing on three main questions:
+1) The detailed mechanisms of glial-neuronal communication and TNFα-dependent synaptic plasticity
+2) Using the TNFα knockout mouse to investigate the role of TNFα-dependent plasticity in development and behavior
+3) Investigate the role of TNFα-dependent receptor trafficking (particularly of the calcium permeable AMPA receptor) to neuro-inflammatory insults
+
 
 {% include section.html %}
 
