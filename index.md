@@ -4,9 +4,13 @@
 # Stellwagen Lab
 PI: 
 
-David StellWagen
-Associate Professor | Neurology & Neurosurgery, Medicine (Dept. & Faculty)
-Researcher | Research Institute of the McGill University Health Centre
+David Stellwagen
+
+Associate Professor & Researcher
+
+Department of Neurology & Neurosurgery, Faculty of Medicine, McGill University
+
+Research Institute of the McGill University Health Centre
 
 {%
   include button.html
